@@ -1,6 +1,7 @@
 TODO:
 - Infogan notebook does not train
 - Clean up acgan
+- acgan and infogan code borrows heavily from (https://github.com/eriklindernoren/Keras-GAN)[keras-gan] so be careful
 
 
 Course Plan:
