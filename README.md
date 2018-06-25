@@ -1,3 +1,8 @@
+TODO:
+- Infogan notebook does not train
+- Clean up acgan
+
+
 Course Plan:
 
 Intro
